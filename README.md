@@ -1,2 +1,2 @@
-# NARU_Buffer_Management_System
-NARU Buffer Management System, project from System Programming Course 
+# NARU Buffer Management System
+NARU Buffer Management System, project from System Programming Course. The project involves implementing a sophisticated buffer processing system in C, specifically tailored to manage multiple word buffers akin to open files, thereby enhancing user interaction with textual data, with a comprehensive set of features including buffer creation, modification, file input/output operations, and execution of user-specified programs, all within a Unix-like environment. Additionally, the system is designed to handle an arbitrary number of concurrent processes efficiently, employing advanced mechanisms for process control through pipes and signals. Developed exclusively for the Zeus system, this project emphasizes compatibility and performance, ensuring seamless integration and optimal functionality within the designated environment.
